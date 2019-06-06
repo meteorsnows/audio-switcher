@@ -6,6 +6,7 @@ Audio Switcher is a simple app that runs in the notification area (system tray) 
 Tired of having to perform a song and dance through the Windows Sound dialogs just to switch from your speakers to your headphones? Then this app is for you.
 
 ![ScreenShot](resources/AudioSwitcher.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmeteorsnows%2Faudio-switcher.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmeteorsnows%2Faudio-switcher?ref=badge_shield)
 
 ## How do I install this thing?
 Currently, there is no installer or binary that you can run or download. You'll need to build the project yourself. Open the solution in Visual Studio 2013, build and then run `AudioSwitcher.exe` from the bin directory.
@@ -32,3 +33,7 @@ NAudio (http://naudio.codeplex.com)
  
 svotar (https://code.google.com/p/szotar)
 * Provided the original code for the native Toolstrip renderer
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmeteorsnows%2Faudio-switcher.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmeteorsnows%2Faudio-switcher?ref=badge_large)
